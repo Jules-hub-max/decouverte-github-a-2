@@ -12,6 +12,7 @@ Ce format n’est **pas une obligation**, mais il offre les **avantages** suivan
           - les articles,
           - les rapports et
           - la documentation.
+JUllllllllle
 - *Compatible* avec de nombreux éditeurs de texte et utilisable sur différentes plateformes.
 Petit mémo [ici](https://www.markdownlang.com/fr/cheatsheet/)
 
